@@ -1,4 +1,5 @@
 <?php
+	//Teste
 	require_once("config.php");
 
 	use Cliente\Cadastro;
